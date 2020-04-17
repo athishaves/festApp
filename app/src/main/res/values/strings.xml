@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Milagro</string>
+    <string name="fests">Fests</string>
+    <string name="events">EVENTS</string>
+    <string name="technical_events">Technical Events</string>
+    <string name="cultural_events">Cultural Events</string>
+    <string name="blur_image">blur_image</string>
+    <string name="info">Info</string>
+    <string name="milagro_image">Milagro Image</string>
+    <string name="guests">Guests</string>
+    <string name="sponsored_by">Sponsored By</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="facebook">Facebook</string>
+    <string name="follow_us_on_facebook">Fb : Fest2k20</string>
+    <string name="follow_us_on_instagram">Insta : Fest2k20</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location">location</string>
+    <string name="home_page">HOME PAGE</string>
+    <string name="team">TEAM</string>
+
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="the_team">The Team</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="loading_screen">loading_screen</string>
+
+    <string name="enter_your_gmail_account">Enter your gmail account</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="click_here_to_login">Already have an account?\n<u>Click here</u> to Sign In</string>
+    <string name="click_here_to_signin">New here?\n<u>Click here</u> to Register</string>
+    <string name="skip_for_now"><u>Skip for now</u></string>
+
+    <string name="gmail_suffix">\@gmail.com</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="login">LOGIN</string>
+    <string name="book_tickets">BOOK TICKETS</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="book_another_ticket">BOOK ANOTHER TICKET</string>
+    <string name="enter_your_college">Enter your College</string>
+
+    <string name="sorry_for_the_inconvinience">Transactions using PhonePe is not possible right now\nSorry for the inconvenience.</string>
+    <string name="transaction_successfull">Transaction Successful</string>
+    <string name="signed_in_as">Logged in as</string>
+    <string name="guest">Guest</string>
+</resources>

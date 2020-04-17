@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83886644998",
+    "firebase_url": "https://mini-fest-app.firebaseio.com",
+    "project_id": "mini-fest-app",
+    "storage_bucket": "mini-fest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83886644998:android:adefcde496adafa6710887",
+        "android_client_info": {
+          "package_name": "com.athish_works.festdynamicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83886644998-826c7959tlta0he8dsmht0s2lc76masf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStHLXHprWe4WHNxtSvquucaA2BZkE6Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83886644998-826c7959tlta0he8dsmht0s2lc76masf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

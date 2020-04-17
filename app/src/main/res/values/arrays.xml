@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_page_array">
+        <item>Click</item>
+        <item>To</item>
+        <item>Participate</item>
+        <item>In  The</item>
+        <item>UVCE  Fests</item>
+    </string-array>
+</resources>
